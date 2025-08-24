@@ -1,2 +1,2 @@
 # Virtual-Assistant---Jarvis-Using-NLP
-Jarvis is a virtual AI assistant powered by NLP that processes voice commands to perform tasks like web search, application control, email, and real-time updates. It uses Speech-to-Text and Text-to-Speech for natural interaction, providing a customizable and hands-free personal assistant experience.
+Jarvis is a desktop-based virtual assistant built using Natural Language Processing (NLP) and speech recognition. It interacts with users through voice commands, understands queries, and performs tasks such as opening applications, browsing the web, sending emails, playing music, and providing real-time updates like weather or news.
